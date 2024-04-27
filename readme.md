@@ -4,7 +4,7 @@
 
 ### This program analyzes a text file and shows the frequency of its words. It outputs its values to another text file, showing the words with the higher frequency, descending to the ones with least frequency.
 
-I used a similar tool in [This Website](http://www.writewords.org.uk/word_count.asp#google_vignette) to help me to identify recurrent words in pieces of text like articles, and religious scriptures. I wanted to see if I can reproduce the same algorithm in C++.
+I used a similar tool in [this website](http://www.writewords.org.uk/word_count.asp#google_vignette) to help me to identify recurrent words in pieces of text like articles, and religious scriptures. I wanted to see if I can reproduce the same algorithm in C++.
 
 This project was done in around 12 hours. Here is a video showing its functionalities and design.
 
