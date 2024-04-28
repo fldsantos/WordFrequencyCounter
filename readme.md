@@ -8,7 +8,7 @@ I used a similar tool in [this website](http://www.writewords.org.uk/word_count.
 
 This project was done in around 12 hours. Here is a video showing its functionalities and design.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zT4cifOYO2k)
 
 # Development Environment
 
